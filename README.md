@@ -26,3 +26,6 @@ OBJETIVOS
 
 3. diagramas
 
+
+![](https://github.com/doalulema/LABC/blob/master/img/sumador%20completo.jpg)
+
