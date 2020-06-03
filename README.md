@@ -18,3 +18,11 @@ mallas del circuito, la suma de las corrientes que entran en un
 nodo es igual a la suma de las corrientes que salen del mismo.
 Por otro lado, hay que tener en cuenta que los conceptos de
 una ley por lo general son de carácter idealizado, esto qu
+
+
+OBJETIVOS
+
+2. objetivos
+
+3. diagramas
+
