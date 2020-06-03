@@ -29,3 +29,11 @@ OBJETIVOS
 
 ![](https://github.com/doalulema/LABC/blob/master/img/sumador%20completo.jpg)
 
+
+4. LISTA DE COMOPONENTES
+
+| Primer encabezado | Segundo encabezado |
+| ------------- | ------------- |
+| Contenido de la celda  | Contenido de la celda  |
+| Contenido de la celda  | Contenido de la celda  |
+
